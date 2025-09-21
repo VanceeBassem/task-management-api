@@ -5,7 +5,7 @@ Managers can create and assign tasks. Users can view and update only their own t
 
 ## Setup
 1. Clone the repo & install dependencies:
-git clone <repo-url>
+git clone https://github.com/VanceeBassem/task-management-api.git
 cd task-api
 composer install
 
